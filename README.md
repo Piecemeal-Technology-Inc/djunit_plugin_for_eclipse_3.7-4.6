@@ -1,3 +1,8 @@
+# Site has been moved
+This site will no longer be updated. Please visit the new site.
+
+new site: [https://girigiri-safe.github.io/djunit_plugin_for_eclipse_3.7-4.6/](https://girigiri-safe.github.io/djunit_plugin_for_eclipse_3.7-4.6/)
+
 # djunit_plugin_for_eclipse_3.7-4.6
 
 djUnit plugin for Eclipse version 3.7 - 4.6
